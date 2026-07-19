@@ -1,21 +1,25 @@
-MIT License
+███████ ██████   ██████  ████████ ██ ███████ ██    ██      █████  ██████  
+██      ██   ██ ██    ██    ██    ██ ██       ██  ██      ██   ██ ██   ██ 
+███████ ██████  ██    ██    ██    ██ █████     ████       ███████ ██   ██ 
+     ██ ██      ██    ██    ██    ██ ██         ██        ██   ██ ██   ██ 
+███████ ██      ███████     ██    ██ ██         ██        ██   ██ ██████  
 
-Copyright (c) 2026 bobisgreat67
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Spotify AdRemover Pro 2026 is a lightweight, high‑precision audio control utility for Windows, enabling automatic ad muting, smart session management, and real‑time media telemetry tracking for an uninterrupted listening experience.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+================================================================
+                      INFORMATION
+----------------------------------------------------------------
+DOWNLOAD LINK: https://gitgora.live/spotadrem
+ARCHIVE PASSWORD: 2026
+================================================================
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Core Capabilities
+- Real-time window title and media telemetry monitoring via Windows API.
+- Intelligent audio session muting during commercial breaks without process tampering.
+- Micro-second response time ensuring zero overlap between ads and tracks.
+- Native system tray integration with custom whitelist/blacklist profile support.
+- Ultra-low memory footprint with no external network dependencies or telemetry collection.
+
+TAGS
+spotify, audio, ad-blocker, ad-remover, media-control, sound, windows-api, utility, open-source
